@@ -42,6 +42,11 @@ This will start the Streamlit server and open the application in your default we
 
 ## Screenshots
 Please add screenshots of the application below to showcase its features and user interface.
+### Dashboard
+![Dashboard Screenshot](dashboard.png)
+
+### Results
+![Results Screenshot](result.png)
 
 
 ## ⭐️ If you like this project, please give it a star on GitHub! 
